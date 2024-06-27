@@ -185,3 +185,6 @@ specifications    </p>
     </summary>
     <p>This sub section should describe ...</p>
 </details>
+
+![Sequence Diagram](imgs/sequence.png)
+
